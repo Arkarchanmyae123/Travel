@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #FAFAFA;
+  text-align: center;
+}
+.nav-link {
+  color: #8758FF !important;
+}
+.content {
+  color: #DFF6FF;
+}
+#head {
+  padding: 35px;
+  background-color: #181818;
+  text-align: center;
+}
+.navbar-brand > h1 {
+  font-family: 'Rock Salt', cursive;;
+  color: #06283D;
+}
+h2 {
+  font-family: 'Rock Salt', cursive;;
+  color: #
+}
+#playstore {
+  margin: 10px;
+}
+#appstore {
+  margin: 10px;
+}
+
+.text:hover {
+  color: #158467;
+}
+.carousel-inner > .carousel-item > img {
+  max-height: 100%;
+  width: 100%;
+}
+#Price {
+  padding: 30px;
+  background-color: #181818;
+}
+.card {
+  text-align: center;
+}
+#card-1,#card-2,,#card-3 {
+  margin: 30px;
+}
+#abou-us {
+  background-color: #DFF6FF;
+}
+#footer {
+  background-color: #06283D;
+}
